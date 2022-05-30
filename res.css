@@ -1,0 +1,50 @@
+@media only screen and (max-width: 800px) {
+    nav ul
+    {
+        width: 100vw;
+        /* flex-direction: column;
+        height: 90px; */
+    }
+    nav ul li{
+        padding: 0 4px;
+    }
+
+    .bottom{
+       height: 140px; 
+    }
+
+    
+
+    .icons{
+        margin-top: 45px;
+    }
+
+    #mastersongname{
+        margin-top:  15px;
+    }
+
+    .songinfo {
+        padding-bottom: 23px;
+    }
+    .container{
+        width: 70vw;
+        /* margin-left: 53px;
+        margin-right: 53px; */
+    }
+
+    h1{
+        display: flex;
+        /* justify-content: center;
+        align-items: center; */
+        margin: 46px;
+
+    }
+
+    .songitem{
+width: 109%;
+    }
+
+    
+  }
+
+  
